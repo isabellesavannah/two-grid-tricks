@@ -1,0 +1,9 @@
+{
+	"css template": {
+		"prefix": "template",
+		"body": [
+			"body { min-height: 100vh; display: flex; flex-direction: column; }\nheader{ } \nmain{flex-grow: 1;} \nfooter{ }"
+		],
+		"description": "css flex grow template"
+	}
+}
